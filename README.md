@@ -22,7 +22,7 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fgdamasceno&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## About
-I am currently pursuing a degree in Analysis and Systems Development, with a strong focus on becoming a skilled Java developer. Alongside my academic studies, I am actively engaging in specialized courses to deepen my knowledge and expertise in Java development. My passion for technology and software engineering drives me to continuously learn and evolve in this field, with the goal of building robust and efficient applications.
+I am currently pursuing a degree in Analysis and Systems Development. Alongside my academic studies, I am actively engaging in specialized courses to deepen my knowledge in both frontend and backend development, focusing on technologies like HTML, CSS, JavaScript, Java, and Spring. My passion for technology and software engineering drives me to continuously learn and evolve in this field, with the goal of building robust and efficient applications.
 
 
 <!--
