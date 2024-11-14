@@ -16,7 +16,7 @@
 
 
 ## Github Stats
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgdamasceno&show_icons=true&theme=transparent)    [![GitHub Streak](https://streak-stats.demolab.com?user=fgdamasceno&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgdamasceno&show_icons=true&theme=transparent) [![GitHub Streak](https://streak-stats.demolab.com?user=fgdamasceno&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=420)](https://git.io/streak-stats)
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fgdamasceno&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
