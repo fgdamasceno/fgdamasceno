@@ -43,7 +43,7 @@ contatos
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fgdamasceno&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## About
-I am currently pursuing a degree in Analysis and Systems Development. Alongside my academic studies, I am actively engaging in specialized courses to deepen my expertise in frontend development using HTML, CSS, JavaScript, and React. Additionally, I am expanding my skills in cross-platform mobile development with React Native, aiming to create user-friendly and responsive applications across various devices. My passion for technology and software engineering motivates me to continuously learn and evolve, with the goal of crafting impactful and innovative solutions.
+I am currently pursuing a degree in Analysis and Systems Development. Alongside my academic studies, I am actively engaging in specialized courses to deepen my expertise in frontend development using HTML, CSS, JavaScript, and React. Additionally, I am expanding my skills in cross-platform mobile development with Flutter, aiming to create user-friendly and responsive applications across various devices. My passion for technology and software engineering motivates me to continuously learn and evolve, with the goal of crafting impactful and innovative solutions.
 
 
 <!--
