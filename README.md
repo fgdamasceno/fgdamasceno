@@ -39,16 +39,17 @@ contatos
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/DDI+DDD+SEU_NUMERO_WHATSAPP)
 -->
 
+## About
+Graduate in Systems Analysis and Development focused on Java and backend development, studying object-oriented programming and software engineering through continuous learning and practical projects.
+
 
 ## Github Stats
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgdamasceno&show_icons=true&theme=transparent) [![GitHub Streak](https://streak-stats.demolab.com?user=fgdamasceno&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=360)](https://git.io/streak-stats)
 
+<!--
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fgdamasceno&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## About
-I am currently pursuing a degree in Analysis and Systems Development. Alongside my academic studies, I am actively engaging in specialized courses to deepen my expertise in frontend development using HTML, CSS, JavaScript, and React. Additionally, I am expanding my skills in cross-platform mobile development with Flutter, aiming to create user-friendly and responsive applications across various devices. 
-
+-->
 
 <!--
 **fgdamasceno/fgdamasceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,7 +66,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fgdamasceno&show_icons=true&theme=dark)
-
-
 -->
 
