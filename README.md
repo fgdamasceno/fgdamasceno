@@ -45,9 +45,11 @@ I’m currently improving my skills through practical projects, focusing on:
 
 ## 📚 Currently Learning
 
-* REST API best practices
-* Docker & containerization
-* Clean code and software design principles
+* Deepening Java fundamentals (OOP, collections, streams, exception handling)
+* Building REST APIs with Spring Boot (controllers, services, repositories)
+* Spring ecosystem (Spring Data JPA, validation, dependency injection)
+* Designing clean and maintainable architectures (SOLID, clean code)
+* Containerization with Docker for backend applications
 
 ---
 
